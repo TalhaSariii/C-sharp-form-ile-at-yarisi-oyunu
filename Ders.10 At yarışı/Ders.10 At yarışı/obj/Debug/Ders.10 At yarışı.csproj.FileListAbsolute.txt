@@ -1,0 +1,11 @@
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\bin\Debug\Ders.10 At yarışı.exe.config
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\bin\Debug\Ders.10 At yarışı.exe
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\bin\Debug\Ders.10 At yarışı.pdb
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\obj\Debug\Ders.10 At yarışı.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\obj\Debug\Ders.10 At yarışı.csproj.SuggestedBindingRedirects.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\obj\Debug\Ders._10_At_yarışı.Form1.resources
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\obj\Debug\Ders._10_At_yarışı.Properties.Resources.resources
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\obj\Debug\Ders.10 At yarışı.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\obj\Debug\Ders.10 At yarışı.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\obj\Debug\Ders.10 At yarışı.exe
+C:\Users\talha\OneDrive\Masaüstü\C# form\Ders.10 At yarışı\Ders.10 At yarışı\obj\Debug\Ders.10 At yarışı.pdb
